@@ -1,0 +1,7 @@
+[Desktop Entry]
+# The names/descriptions should really be better
+Name=XDE
+_Comment=XDE - X desktop environment
+Exec=@prefix@/bin/startxde
+# Icon=
+Type=Application

@@ -1,0 +1,2 @@
+#!/bin/sh
+xsession-logout --banner "@prefix@/share/xde/images/logout-banner.png" --side=top
